@@ -1,0 +1,78 @@
+#container{
+ /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#feccb1+0,f17432+50,ea5507+51,fb955e+100;Red+Gloss+%232 */
+background: rgb(254,204,177); /* Old browsers */
+background: -moz-linear-gradient(45deg,  rgba(254,204,177,1) 0%, rgba(241,116,50,1) 50%, rgba(234,85,7,1) 51%, rgba(251,149,94,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg,  rgba(254,204,177,1) 0%,rgba(241,116,50,1) 50%,rgba(234,85,7,1) 51%,rgba(251,149,94,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg,  rgba(254,204,177,1) 0%,rgba(241,116,50,1) 50%,rgba(234,85,7,1) 51%,rgba(251,149,94,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feccb1', endColorstr='#fb955e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+height:100%;
+width: 1300px;
+padding: 1px;
+}
+h1{
+    display: flex;
+    justify-content:center;
+    color: white;
+}
+
+img{
+   width: 100%;
+  height: 100%;
+}
+
+article{
+    width: 95%;
+}
+.galeria{
+    width: 300px;
+    height: 300px;
+    border: solid 5px rgba(234,85,7,1) ;
+    transition: width 5s, height 5s;
+    transition: width 5s, height 5s;
+    transition: width 5s, height 5s;
+    padding: 10px;
+    margin: 10px;
+ 
+   
+}
+.galeria:hover{
+    width: 450px;
+    height: 450px;
+    z-index: 2;
+    transition: 5s;
+    transition-timing-function: 3s;
+}
+article{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+footer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.facebook{
+    background-color: royalblue;
+    color: white;
+}
+.whatsapp{
+    background-color: rgb(65, 211, 65);
+    color: white;
+}
+.msg{
+    background-color:white;
+    color: red;
+}
+.redes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+.img1{
+    border:rgba(234,85,7,1);
+    padding: 20px;
+}

@@ -1,0 +1,62 @@
+h1{
+	background-color: rgb(245, 172, 37, 0.3);
+	margin:50px;
+}
+
+h2{
+	background-color: rgb(245, 172, 37, 0.3);
+	padding: 20px;
+	text-align: center;
+	margin: 50px;
+}
+
+p{
+	display: flex;
+	justify-content: center;
+	background-color: rgba(255, 237, 133, 0.3);
+	text-align: justify;
+	padding: 20px;
+	margin:50px;
+}
+
+}
+
+
+}
+ 
+body {
+	background-color: darkorange;
+	
+}
+
+
+ tr, td {
+	background-color: rgb(255, 123, 0, 0.2);
+	border: 1px solid black;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: large;
+	padding: 9px;
+	text-align: center;
+
+ }
+
+
+
+div #general {
+	margin: auto;
+	margin-top¿: 30px;
+	width: 960px;
+	height: 800px;
+	background-color: burlywood;
+}
+
+.portada{
+	display: flex;
+	width: 1024px;
+	height: 550px;
+}
+
+
+#contable{
+	margin:50px;
+}

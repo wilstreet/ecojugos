@@ -1,0 +1,104 @@
+
+
+
+
+
+
+#cabezote {
+display: flex;
+justify-content: center;
+width: 500px;
+padding: 20px;
+margin-left: 110px;
+
+}
+
+#valores {
+	background-color: rgb(245, 172, 37, 0.3);
+	padding: 20px;
+	margin: 120px;
+	
+}
+
+#honestidad {
+	height: 185;
+	width: 185;
+	float: left;
+	margin-left: 40;
+	margin-top: 30;
+	text-align: center;
+	padding-left: 20px;
+}
+
+#laboriosidad {
+	height: 185;
+	width: 185;
+	float: left;
+	margin-left: 40;
+	margin-top: 30;
+	text-align: center;
+	padding-left: 20px;
+}
+
+#perseverancia {
+	height: 185;
+	width: 185;
+	float: left;
+	margin-left: 40;
+	margin-top: 30;
+	text-align: center;
+	padding-left: 20px;
+}
+
+#solidaridad {
+	height: 185;
+	width: 185;
+	float: left;
+	margin-left: 40;
+	margin-top: 30;
+	text-align: center;
+	padding-left: 20px;
+}
+
+h2{
+	color: #9ACD32;
+	font-family: GothamRoundedBold,sans-serif!important;
+	font-size: 30px!important;
+	margin-top: 200;
+}	
+
+#mision {
+	margin-left: 20;
+	margin-top: 300;
+	padding-left: 20;
+	padding-top: 20;
+	padding-right: 20;
+	padding-bottom: 5;
+	font-family: GothamRoundedBold,sans-serif!important;
+	font-size: 18px!important;
+	color: #696969;
+	padding-left: 20px;
+}
+
+.vision{
+	margin-left: 20;
+	margin-top: 5;
+	padding-left: 20;
+	padding-top: 5;
+	padding-right: 20;
+	padding-bottom: 30;
+	font-family: GothamRoundedBold,sans-serif!important;
+	font-size: 18px!important;
+	color: #696969;
+	padding-left: 20px;
+}
+
+h1{
+	color: #9ACD32;
+	font-family: GothamRoundedBold,sans-serif!important;
+	font-size: 30px!important;
+}	
+img{
+	display: flex;
+	justify-content: center;
+}
